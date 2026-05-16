@@ -37,6 +37,24 @@ RoboLifter is an end-to-end AI-powered personal trainer that analyzes your squat
 It was built at the **2025 Dream AI Hackathon** (Likelion US, Cambridge) — where 180+ innovators across 37+ teams built AI-driven solutions for real-world impact.
 
 ---
+## 📊 Analytics & Performance Tracking
+
+RoboLifter is designed not only as an AI fitness coach, but also as a fitness analytics platform capable of collecting and analyzing real-time workout performance data.
+
+Planned analytics features include:
+- Rep and workout history tracking
+- Exercise performance trends over time
+- Form accuracy scoring
+- Fatigue and consistency analysis
+- Workout session dashboards
+- AI-generated progress insights
+- Exportable workout datasets for further analysis
+
+Future versions will integrate data visualization and analytics workflows using:
+- Python Pandas
+- SQL databases
+- Tableau / Power BI dashboards
+- Machine learning performance analysis
 
 ### 🕵️ Analyze your form with real-time computer vision  
 🔹 Get instant, personalized AI voice feedback  
@@ -172,7 +190,7 @@ Hosted by Likelion US, Cambridge
 
 ---
 
-## ⭐️ Why GymBroAI?
+## ⭐️ Why Robolifter?
 
 Because everyone deserves a personal trainer — powered by AI, accessible anywhere, and always encouraging you to:
 
